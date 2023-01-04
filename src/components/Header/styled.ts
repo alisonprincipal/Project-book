@@ -9,7 +9,7 @@ export const StyleHeader = styled.header`
     padding: 20px 30px;
     background: #E0DDDD;
 
-    @media(max-width:300px){
+    @media(max-width:315px){
         flex-wrap: wrap;
         gap: 15px;
         justify-content: center; 
