@@ -12,7 +12,7 @@ export const HomePage =()=>{
             <fieldset>
                 <p>Em uma era onde a tecnologia é extremamente presente, é dificil ficar longe do computador e do
 celular, e ler um bom livro acaba sendo apenas um sonho em meio a rotina, então criamos a Li-Marus
-onde recomendamos você leitor a conhecer livros
+onde recomendamos você leitor a conhecer livross
 e se aventurar em suas páginas.</p>
                 <p>Deixe a imaginação fluir.</p>
             </fieldset>
