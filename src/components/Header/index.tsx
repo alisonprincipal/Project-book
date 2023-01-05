@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom"
-import logo from "../../assets/logo.svg"
 import { StyleHeader } from "./styled"
 interface iRoutes{
     rota1:string;
@@ -11,7 +10,7 @@ interface iRoutes{
 export const Header =({rota1,rota2,nameRota1,nameRota2}:iRoutes)=>{
     return(
         <StyleHeader>
-            <img src={logo} alt="logo do site" />
+            <h1>Li-Marus</h1>
             <div>
                 <Link to={rota1}>{nameRota1}</Link>
                 <Link to={rota2}>{nameRota2}</Link>

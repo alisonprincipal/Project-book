@@ -9,13 +9,13 @@ export const HomePage =()=>{
         <StyleMain>
             <div>
                 <img src={imgCapa} alt="imagem de capa" />
-            <fieldset>
-                <p>Em uma era onde a tecnologia é extremamente presente, é dificil ficar longe do computador e do
-celular, e ler um bom livro acaba sendo apenas um sonho em meio a rotina, então criamos a Li-Marus
-onde recomendamos você leitor a conhecer livros
-e se aventurar em suas páginas.</p>
-                <p>Deixe a imaginação fluir.</p>
-            </fieldset>
+                <div className="artigoLei">
+                    <p>Em uma era onde a tecnologia é extremamente presente, é dificil ficar longe do computador e do
+    celular, e ler um bom livro acaba sendo apenas um sonho em meio a rotina, então criamos a Li-Marus
+    onde recomendamos você leitor a conhecer livross
+    e se aventurar em suas páginas.</p>
+                    <p>Deixe a imaginação fluir.</p>
+                </div>
             </div>
         </StyleMain>
         </>
